@@ -5,5 +5,7 @@
 https://raw.githubusercontent.com/mingge9527/v2board-rules-ini/main/v2board.ini
 ```
 来看看效果吧
+
 ClashForAndroid
-![https://raw.githubusercontent.com/mingge9527/v2board-rules-ini/main/cfa.png]
+
+![[https://raw.githubusercontent.com/mingge9527/v2board-rules-ini/main/cfa.png](https://github.com/mingge9527/v2board-rules-ini/blob/main/cfa.jpg?raw=true)https://github.com/mingge9527/v2board-rules-ini/blob/main/cfa.jpg?raw=true]
