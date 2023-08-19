@@ -1,4 +1,5 @@
 # v2board-rules-ini
+“高度”还原V2Board的Clash分流规则
 # 使用方法:
 在订阅转换中将后端规则更改如下即可
 ```shell script
