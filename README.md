@@ -4,4 +4,6 @@
 ```shell script
 https://raw.githubusercontent.com/mingge9527/v2board-rules-ini/main/v2board.ini
 ```
-
+来看看效果吧
+ClashForAndroid
+![https://raw.githubusercontent.com/mingge9527/v2board-rules-ini/main/cfa.png]
