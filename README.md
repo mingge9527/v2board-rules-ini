@@ -9,8 +9,10 @@ https://raw.githubusercontent.com/mingge9527/v2board-rules-ini/main/v2board.ini
 
 ClashForAndroid
 
+
 ![image](https://github.com/mingge9527/v2board-rules-ini/blob/main/cfa.jpg?raw=true)
 
 ClashForWindows
 
-![image](https://github.com/mingge9527/v2board-rules-ini/blob/main/cfw.jpg?raw=true)
+
+![image](https://github.com/mingge9527/v2board-rules-ini/blob/main/cfw.png?raw=true)
